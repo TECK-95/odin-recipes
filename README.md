@@ -1,0 +1,2 @@
+For this project I will be demonstrating basic HTML skills in order to create a recipes web page.
+By the end of this project I should be able to demonstrate my ability to set up a properly formatted html page, use elements and tags in the appropritate fashion, generate lists and include links and images.
